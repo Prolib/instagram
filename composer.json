@@ -1,0 +1,13 @@
+{
+	"name": "prolib/instagram",
+	"description": "instagram api tool",
+	"type": "library",
+	"require": {
+		"php": ">=7.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"ProLib\\Instagram\\": ["src/"]
+		}
+	}
+}
